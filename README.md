@@ -10,7 +10,7 @@ I have also registered an `OnClickListener` so that the widgets update once the 
 
 ## Screenshot Number Widget
 
-<img width="40%" src="https://user-images.githubusercontent.com/16917821/39506007-b68a6c68-4df3-11e8-8ea2-06d57624c639.png" />
+<img width="40%" src="https://user-images.githubusercontent.com/16917821/39574605-7507721a-4ef5-11e8-9b0e-dbd5cb5a414c.png" />       <img width="40%" src="https://user-images.githubusercontent.com/16917821/39574725-d18a04bc-4ef5-11e8-82a0-140e79196541.png" />
 
 ## License
 
